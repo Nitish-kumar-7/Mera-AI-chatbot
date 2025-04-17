@@ -1,4 +1,4 @@
-# APNA AI - Flutter-based AI Chatbot
+# Mera AI - Flutter-based AI Chatbot
 
 APNA AI is a conversational AI chatbot built using Flutter and powered by OpenAI's GPT models. The app is designed to provide a seamless and interactive experience for users, offering intelligent responses to a wide range of queries across different domains like learning, productivity, and general assistance.
 
@@ -22,11 +22,11 @@ To run the app locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Raikant59/Apna-AI.git
+   git clone https://github.com/Raikant59/Mera-AI.git
    ```
 2. **Navigate to the project folder**:
    ```bash
-   cd APNA-AI
+   cd Mera-AI
    ```
 3. **Install dependencies**:
    ```bash
